@@ -2,8 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-st.write("""alo?
-""")
+st.title("""Salud mental en trabajo remoto""")
 st.markdown("""
 <style>
     [data-testid=stSidebar] {
@@ -15,4 +14,4 @@ st.markdown("""
 with st.sidebar:
     "## This is the sidebar"
 
-st.title('samuel chupalo')
+st.subheader('alo?')
