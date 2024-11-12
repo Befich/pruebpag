@@ -14,3 +14,5 @@ st.markdown("""
 
 with st.sidebar:
     "## This is the sidebar"
+
+st.title('samuel chupalo')
